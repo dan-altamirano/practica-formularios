@@ -12,11 +12,15 @@ table {
 th {
   background-color: #B4C2CF;
   font-weight: lighter;
+  
+}
+h2 {
+  font-size: 1.1em;
+  margin: 0;
 }
 .bold {
   font-weight: bolder;
 }
-
 .magistral {
   background-color: #BFBFBF;
 }
@@ -43,6 +47,9 @@ td span {
 }
 .event-type {
   font-size: .8em;
+  font-style: italic;
+}
+.company {
   font-style: italic;
 }
 table caption {
