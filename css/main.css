@@ -1,6 +1,7 @@
 td,
 th{
   border-radius: 5px;
+  text-align: center;
 }
 table {
   border-spacing: 5px;
@@ -25,4 +26,18 @@ th {
 }
 .general {
   background-color: #9798CA;
+}
+td span {
+  display: block;
+}
+.ponente {
+  font-style: italic;
+}
+.event-type {
+  font-size: .8em;
+  font-style: italic;
+}
+table caption {
+  font-weight: bolder;
+  font-size: 1.5em;
 }
