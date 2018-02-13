@@ -1,3 +1,6 @@
+* {
+  font-family: Helvetica;
+}
 td,
 th{
   border-radius: 5px;
@@ -8,7 +11,12 @@ table {
 }
 th {
   background-color: #B4C2CF;
+  font-weight: lighter;
 }
+.bold {
+  font-weight: bolder;
+}
+
 .magistral {
   background-color: #BFBFBF;
 }
@@ -39,5 +47,6 @@ td span {
 }
 table caption {
   font-weight: bolder;
-  font-size: 1.5em;
+  font-size: 2em;
+  padding-bottom: 20px;
 }
